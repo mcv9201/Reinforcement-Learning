@@ -1,6 +1,6 @@
 # Reinforcement-Learning
 
-Optimizing collective fieldtaxis of swarming agents through reinforcement learning
+<h1>Optimizing collective fieldtaxis of swarming agents through reinforcement learnng</h1>
 Introduction
 The swarming of animal groups has fascinated scientists in fields ranging from
 biology to physics to engineering. The complex swarming patterns often arise from
