@@ -14,15 +14,15 @@ the whole swarm.
 <br>
 <h3>Algorithm and Simulations</h3>
 Part - I
-<br>
-Firstly I casted a static light field using the equation<br>
-𝐹(𝑋) =
+<br><br>
+Firstly I casted a static light field using the equation<br><br>
+<h4>𝐹(𝑋) =
 𝑘
 ∑[𝐴
 𝑘
 𝑐𝑜𝑠(𝑘. 𝑋) + 𝐵
 𝑘
-𝑠𝑖𝑛(𝑘. 𝑋)]
+𝑠𝑖𝑛(𝑘. 𝑋)]</h4>
 <br>
 We do the sum over wave vectors, k =(𝑘 which runs through = 0,
 𝑥
