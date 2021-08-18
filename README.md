@@ -16,19 +16,12 @@ the whole swarm.
 Part - I
 <br><br>
 Firstly I casted a static light field using the equation<br><br>
-<h4>𝐹(𝑋) =
-𝑘
-∑[𝐴
-𝑘
-𝑐𝑜𝑠(𝑘. 𝑋) + 𝐵
-𝑘
-𝑠𝑖𝑛(𝑘. 𝑋)]</h4>
+<h4>
+  𝐹(𝑋) =𝑘∑[𝐴<sub>𝑘</sub>𝑐𝑜𝑠(𝑘. 𝑋) + 𝐵𝑘𝑠𝑖𝑛(𝑘. 𝑋)]
+</h4>
 <br>
-We do the sum over wave vectors, k =(𝑘 which runs through = 0,
-𝑥
-,𝑘
-𝑦
-) 𝑘
+We do the sum over wave vectors, k =(𝑥,𝑘𝑦) 𝑘
+𝑘 which runs through
 𝑥
 ,𝑘
 𝑦
