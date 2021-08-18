@@ -1,7 +1,7 @@
 # Reinforcement-Learning
 
 <h1>Optimizing collective fieldtaxis of swarming agents through reinforcement learnng</h1>
-Introduction
+<h3>Introduction</h3><br>
 The swarming of animal groups has fascinated scientists in fields ranging from
 biology to physics to engineering. The complex swarming patterns often arise from
 simple interactions between individuals to the benefit of the collective whole. Here we
@@ -11,9 +11,11 @@ In this project we try to simulate a group of fish which try to find preferred r
 in a sea or ocean where there might be less light so that the predator doesn’t find them.
 They do it collectively by interacting with each other on an individual level that benefits
 the whole swarm.
-Algorithm and Simulations
+<br>
+<h3>Algorithm and Simulations</h3>
 Part - I
-Firstly I casted a static light field using the equation
+<br>
+Firstly I casted a static light field using the equation<br>
 𝐹(𝑋) =
 𝑘
 ∑[𝐴
@@ -21,6 +23,7 @@ Firstly I casted a static light field using the equation
 𝑐𝑜𝑠(𝑘. 𝑋) + 𝐵
 𝑘
 𝑠𝑖𝑛(𝑘. 𝑋)]
+<br>
 We do the sum over wave vectors, k =(𝑘 which runs through = 0,
 𝑥
 ,𝑘
